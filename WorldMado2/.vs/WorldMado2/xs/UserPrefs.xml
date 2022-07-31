@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{3DE8FF73-639F-4E00-8BD2-ACD8B7B47CC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.WorldMado2 PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyMacID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
+    <Files>
+      <File FileName="../WorldMado2.sln" Line="1" Column="1" />
+      <File FileName="WorldMado2.csproj" Line="1" Column="1" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Entitlements.plist" />
+      <File FileName="ViewController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorldMado2" expanded="True">
+            <Node name="WorldMado2" expanded="True">
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bf9db97a3ba23483f8c2ac1a701d57781c054609b5eaa4c18b9259222939f354"
+    }
+  ],
+  "containerPath" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/WorldMado2.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/DerivedData/WorldMado2/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/DerivedData/WorldMado2/Index/Build/Products",
+      "derivedDataPath" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/DerivedData/WorldMado2/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/DerivedData/WorldMado2/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/DerivedData/WorldMado2/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/yone/Dropbox/Public/Share Develop/WorldMado2/WorldMado2/obj/Xcode/0/DerivedData/WorldMado2/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
